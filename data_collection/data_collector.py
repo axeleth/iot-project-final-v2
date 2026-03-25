@@ -43,9 +43,6 @@ MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
 MQTT_TOPIC = "iot-coursework/axel/sensors"
 
-# OpenWeatherMap API
-# Sign up at https://openweathermap.org/api and get a free API key
-# The API key is loaded from the .env file
 OWM_API_KEY = os.getenv("OPENWEATHER_API_KEY", "YOUR_API_KEY_HERE")
 OWM_CITY = "London"
 OWM_COUNTRY = "GB"
