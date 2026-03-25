@@ -1,0 +1,1 @@
+**Please open the dashboard folder and read the README.md file for further instructions.**
